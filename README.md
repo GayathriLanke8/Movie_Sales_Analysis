@@ -28,6 +28,8 @@ The project is designed for **data analysis, visualization best practices, and i
 * What is the average runtime of movies released each year?
 * Which year recorded the highest total box office revenue?
 
+* ![]()
+
 ### 🎭 Genre & Rating Analysis
 
 * How are movies distributed across different genres?
